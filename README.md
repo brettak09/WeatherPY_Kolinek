@@ -14,8 +14,17 @@ Evaluation of several weather data points in vairous cities around the world, di
 
 - The Norther Hemisphere appears to be slightly winder than the Southern Hemisphere
 
-
-
 ### Technologies Uses
 
+- Jupyter Notebook
+- OpenWeather API
+
 ### Modules
+
+- Pandas
+- Matplotlib
+- Numpy
+- Requests
+- Time
+- Read/Write CSV
+- Matplotlib Savefig (images)

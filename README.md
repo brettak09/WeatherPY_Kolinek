@@ -28,3 +28,6 @@ Evaluation of several weather data points in vairous cities around the world, di
 - Time
 - Read/Write CSV
 - Matplotlib Savefig (images)
+
+#### To Run
+- OpenWeather API license

@@ -14,7 +14,7 @@ Evaluation of several weather data points in vairous cities around the world, di
 
 - The Norther Hemisphere appears to be slightly winder than the Southern Hemisphere
 
-### Technologies Uses
+### Technologies Used
 
 - Jupyter Notebook
 - OpenWeather API
